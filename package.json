@@ -9,11 +9,12 @@
   },
   "main": "lib/search",
   "dependencies": {
-    "underscore": "^1.4.4",
-    "underscore.string": "~2.3.1",
-    "step": "0.0.5",
+    "diacritics": "^1.2.1",
+    "porter-stemmer": "^0.9.1",
     "redis": "^0.12.1",
-    "porter-stemmer": "^0.9.1"
+    "step": "0.0.5",
+    "underscore": "^1.4.4",
+    "underscore.string": "~2.3.1"
   },
   "engines": {
     "node": "~0.10.26"
