@@ -9,6 +9,7 @@
   },
   "main": "lib/search",
   "dependencies": {
+    "async": "^1.4.1",
     "diacritics": "^1.2.1",
     "porter-stemmer": "^0.9.1",
     "redis": "^0.12.1",
